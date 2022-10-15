@@ -88,7 +88,7 @@
             <h2>
                 College Statistics Finder
             </h2>
-            <form action="college.php" method = 'post'>
+            <form action="" method = 'post'>
                 <label for="state">Enter your state: </label>
                 <input type="text" name = 'state' style="width: 200px; height: 40px; border: none; border-radius: 8px; background: #d0d2d6;">
                 <br><br>
